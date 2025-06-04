@@ -1,0 +1,15 @@
+nav > ul {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+
+  background: blue;
+  color: white;
+  list-style: none;
+}
+
+main {
+  padding: 1rem;
+  background: red;
+}
